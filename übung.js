@@ -9,7 +9,7 @@ function Simon(){
               Skill:"Quasi nicht vorhanden",
               Statur:"Lauch",
               Rapskills:"WhackMC"
-            }
+              }
 
   var meinungZuSimon;
   meinungZuSimon = 
