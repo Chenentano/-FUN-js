@@ -6,13 +6,13 @@ function Simon(){
 
   let simon = {
               Name:"Simon",
+              Rapskills:"WhackMC",
               Skill:"Quasi nicht vorhanden",
-              Statur:"Lauch",
-              Rapskills:"WhackMC"
-              }
+              Statur:"Lauch"
+            };
 
-  var meinungZuSimon;
-  meinungZuSimon = 
+  let meinungZuSimon;
+  meinungZuSimon =
               "Durch gründlicher Analyse der Daten\n\n"+
               "Name: "  +simon.Name + "\n" +
               "Skill: " +simon.Skill + "\n" +
