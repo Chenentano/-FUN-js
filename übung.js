@@ -18,7 +18,7 @@ function Simon(){
               "Skill: " +simon.Skill + "\n" +
               "Statur: " +simon.Statur + "\n" +
               "Rapskills: " +simon.Rapskills + "\n\n" +
-              "bin ich zu dem Entschluss gekommen, das er ein Kelb ist.\nLG";
+              "bin ich zu dem Entschluss gekommen, dass er ein Lauch ist.\nLG";
 
   alert (meinungZuSimon);
 }
